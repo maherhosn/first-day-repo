@@ -1,0 +1,23 @@
+/* The below code is copied from 08-stu_attributes 
+--> assets --> css --> style.css
+*/
+.lesson {
+    background-color: lemonchiffon;
+  }
+  
+  .title {
+    color: darkblue;
+  }
+  
+  #email {
+    background-color: goldenrod;
+  }
+  
+  #github {
+    background-color: lightsteelblue;
+  }
+  
+  #portfolio {
+    background-color: darkorange;
+  }
+  
